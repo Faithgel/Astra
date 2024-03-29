@@ -13,7 +13,7 @@
 
 1. Clone the repository:
 ```sh
-    git clone https://github.com/yourusername/astra.git## Description
+    git clone https://github.com/Faithgel/astra.git## Description
 
 Astra is a Discord bot primarily used for server moderation and managing TTRPG (Tabletop Role-Playing Game) plays. It comes with a journal feature for note-taking during games and a dice roller for in-game actions. Future updates will include additional features to enhance the gaming experience.
 ```

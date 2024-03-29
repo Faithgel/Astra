@@ -1,0 +1,20 @@
+# Compiled files
+*.o
+*.out
+
+# Executables
+bin/
+build/
+
+# IDE files
+.idea/
+.vscode/
+.cproject
+.project
+*.iml
+*.ipr
+*.iws
+
+# Generated files
+cmake-build-debug/
+CMakeLists.txt.user
